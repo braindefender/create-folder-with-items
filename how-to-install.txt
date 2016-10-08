@@ -1,0 +1,6 @@
+1. Place "cfwi.exe" in C:/Program Files/ ( not in x86 )
+2. Run install.reg
+3. ??????
+4. PROFIT!!
+
+Look at context menus for "Create Folder with Items"
